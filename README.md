@@ -11,6 +11,11 @@ Passionate data scientist and backend developer with background in biology. I ha
   
 </div>
 
+<div id="badges" align="center">
+
+  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/alvarordev?logo=twitch&style=for-the-badge">
+  
+</div>
 
 
 
