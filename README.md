@@ -35,19 +35,19 @@ Passionate data scientist and backend developer with background in biology. I ha
   
   <h3> Programming </h3>
   <!--R-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="40" heigth = "40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="10%" heigth = "10%"/>&nbsp
   <!--PYTHON-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" heigth = "40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="10%" heigth = "10%"/>&nbsp
   <!--JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="40" heigth = "40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="10%" heigth = "10%"/>
   
   <h3> BBDD </h3>
   <!--MYSQL-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="10%" heigth = "10%"/>&nbsp
   <!--MYSQL-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="50" heigth = "50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="10%" heigth = "10%"/>&nbsp
   <!--MONGODB-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" heigth = "50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="10%" heigth = "10%"/>
     
 </div>
 
