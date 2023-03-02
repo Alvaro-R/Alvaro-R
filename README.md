@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<img width="534" alt="logo" src="https://user-images.githubusercontent.com/67501790/222429903-609267f5-7702-4ea3-b5f6-9d1984fcc866.png">
+<center><img width="534" alt="logo" src="https://user-images.githubusercontent.com/67501790/222429903-609267f5-7702-4ea3-b5f6-9d1984fcc866.png"></center>
 
 
 
