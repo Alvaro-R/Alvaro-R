@@ -41,6 +41,9 @@ Passionate data scientist and backend developer with background in biology. I ha
   <!--JAVA-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="5%" heigth = "5%"/>
   
+  <h3> Frameworks </h3>
+  
+  
   <h3> BBDD </h3>
   <!--MYSQL-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="8%" heigth = "8%"/>&nbsp
@@ -50,7 +53,7 @@ Passionate data scientist and backend developer with background in biology. I ha
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="8%" heigth = "8%"/>
    
   <h3> IDEs </h3>
-  <!--MYSQL-->
+  <!--VSCODE-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="5%" heigth = "5%"/>&nbsp
   
 </div>
