@@ -6,7 +6,7 @@
   </h1>
   
   <h3>
-  I am a data science and development enthusiast with a biology background. I have experience working on small-scale projects in R, Python, and Java. I am      constantly looking for opportunities to learn and grow, and I am dedicated to delivering high-quality work. I am eager to collaborate on exciting projects that will help me develop my skills further.
+Passionate data scientist and backend developer with background in biology. I have experience working with R, Python and Java. I am a collaborative person who likes team working and is always looking for new challenges.
   </h3>
   
 </div>
