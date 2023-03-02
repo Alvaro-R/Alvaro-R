@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<img width="534" alt="logo" src="https://user-images.githubusercontent.com/67501790/222429903-609267f5-7702-4ea3-b5f6-9d1984fcc866.png">
+
+
+
 <!--
 **Alvaro-R/Alvaro-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
