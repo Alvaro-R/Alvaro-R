@@ -67,7 +67,7 @@ Passionate data scientist and backend developer with background in biology. I ha
     🔝 TOP LANGUAGES
   </h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-R&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
 
