@@ -20,19 +20,23 @@ Passionate data scientist and backend developer with background in biology. I ha
   <a href="https://twitter.com/_Alvaroo_R" target="_blank">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_Alvaroo_R?label=FOLLOW&logo=twitter&style=for-the-badge">
   </a>
-    
+  
+  <a href="https://github.com/Alvaro-R" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Alvaro-R?label=follow&logo=github&style=for-the-badge">
+  </a>    
     
 </div>
 
 <div id="tech_skills" align="center">
 
   <h2>
-    TECH SKILLS
+    💻 TECH SKILLS
   </h2>
   
-  <h2>
-    Programming
-  </h2>
+  <h3> Programming </h3>
+  <!--R-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" />&nbsp
+  
     
     
 </div>
