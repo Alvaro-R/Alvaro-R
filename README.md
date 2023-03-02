@@ -5,9 +5,9 @@
   Data Scientist | Java Backend Developer
   </h1>
   
-  <h3>
+  <h4>
 Passionate data scientist and backend developer with background in biology. I have experience working with R, Python and Java. I am a collaborative person who likes team working and is always looking for new challenges.
-  </h3>
+  </h4>
   
 </div>
 
@@ -23,6 +23,20 @@ Passionate data scientist and backend developer with background in biology. I ha
     
     
 </div>
+
+<div id="tech_skills" align="center">
+
+  <h2>
+    TECH SKILLS
+  </h2>
+  
+  <h2>
+    Programming
+  </h2>
+    
+    
+</div>
+
 
 
 
