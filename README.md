@@ -48,7 +48,11 @@ Passionate data scientist and backend developer with background in biology. I ha
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="10%" heigth = "10%"/>&nbsp
   <!--MONGODB-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="10%" heigth = "10%"/>
-    
+   
+  <h3> IDEs </h3>
+  <!--MYSQL-->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="6%" heigth = "6%"/>&nbsp
+  
 </div>
 
 <div id="tech_skills" align="center">
