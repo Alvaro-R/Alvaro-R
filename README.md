@@ -37,9 +37,9 @@ Passionate data scientist and backend developer with background in biology. I ha
   <!--R-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="6%" heigth = "6%"/>&nbsp
   <!--PYTHON-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="10%" heigth = "10%"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="6%" heigth = "6%"/>&nbsp
   <!--JAVA-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="10%" heigth = "10%"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" width="6%" heigth = "6%"/>
   
   <h3> BBDD </h3>
   <!--MYSQL-->
