@@ -51,6 +51,26 @@ Passionate data scientist and backend developer with background in biology. I ha
     
 </div>
 
+<div id="tech_skills" align="center">
+
+  <h2>
+    📊 STATS
+  </h2>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro-R&show_icons=true&theme=radical)
+    
+</div>
+
+<div id="tech_skills" align="center">
+
+  <h2>
+    🔝 TOP LANGUAGES
+  </h2>
+  
+  
+    
+</div>
+
 
 
 
