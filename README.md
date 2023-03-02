@@ -35,7 +35,7 @@ Passionate data scientist and backend developer with background in biology. I ha
   
   <h3> Programming </h3>
   <!--R-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="8%" heigth = "8%"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="6%" heigth = "6%"/>&nbsp
   <!--PYTHON-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="10%" heigth = "10%"/>&nbsp
   <!--JAVA-->
