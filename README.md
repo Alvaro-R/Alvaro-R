@@ -43,11 +43,11 @@ Passionate data scientist and backend developer with background in biology. I ha
   
   <h3> BBDD </h3>
   <!--MYSQL-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" heigth = "40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" heigth = "50"/>&nbsp
   <!--MYSQL-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="40" heigth = "40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" width="50" heigth = "50"/>&nbsp
   <!--MONGODB-->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" heigth = "40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="50" heigth = "50"/>
     
 </div>
 
